@@ -8,14 +8,10 @@
         android:label="Mon activitè"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-<<<<<<< d6acfe10e9dfa2b37173468d50272a135452e90d
-        <activity android:name=".MainActivity">
-=======
         <activity
             android:name=".MainActivity"
             android:label="Mon activitiè"
             android:theme="@style/AppTheme.NoActionBar">
->>>>>>> vesion 1.0
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

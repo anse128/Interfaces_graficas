@@ -8,7 +8,7 @@
         android:title="action_search"
         app:showAsAction="ifRoom"  />
 
-    <item android:id="@id/drawer_layout"
+    <item android:id="@id/toolbar"
         android:icon="@drawable/ic_notifications_black_24dp"
         android:title="action_search"
         app:showAsAction="ifRoom"  />
